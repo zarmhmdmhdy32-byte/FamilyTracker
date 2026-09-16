@@ -53,4 +53,3 @@ jobs:
           path: |
             child/build/outputs/apk/debug/child-debug.apk
             parent/build/outputs/apk/debug/parent-debug.apk
-
